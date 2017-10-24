@@ -1,0 +1,3 @@
+/home/lynn/Downloads/RAID_Dell/sizeverfiveration /sizeVerification/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/lynn/Downloads/RAID_Dell/sizeverfiveration /sizeVerification/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/lynn/Downloads/RAID_Dell/sizeverfiveration /sizeVerification/cmake-build-debug/CMakeFiles/sizeVerification.dir
